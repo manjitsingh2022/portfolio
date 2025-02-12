@@ -14,3 +14,4 @@ const Skills = () => {
 };
 
 export default Skills;
+  // "homepage": "https://github.com/manjitsingh2022/portfolio.git"
